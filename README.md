@@ -1,6 +1,5 @@
 # Template for web app
 This includes:
 - Nextjs
-- emotion
-- eslint, prettier
+- material-ui
 - i18next
