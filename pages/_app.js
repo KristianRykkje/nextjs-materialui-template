@@ -1,6 +1,7 @@
 import Head from "next/head";
 import { appWithTranslation } from "next-i18next";
 import CssBaseline from "@material-ui/core/CssBaseline";
+import Header from "@/components/Header/Header";
 
 function MyApp({ Component, pageProps }) {
   return (
@@ -12,7 +13,10 @@ function MyApp({ Component, pageProps }) {
         />
       </Head>
       <CssBaseline />
-      <Component {...pageProps} />
+      <>
+        <Header />
+        <Component {...pageProps} />
+      </>
     </>
   );
 }
