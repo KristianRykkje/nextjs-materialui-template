@@ -1,14 +1,14 @@
 import Head from "next/head";
-import HomeComponent from "@/components/HomeComponent/HomeComponent";
+import IndexComponent from "@/components/IndexComponent/IndexComponent";
 import { serverSideTranslations } from "next-i18next/serverSideTranslations";
 
-function Home() {
+function Index() {
   return (
     <>
       <Head>
         <title>Title</title>
       </Head>
-      <HomeComponent />
+      <IndexComponent />
     </>
   );
 }
@@ -21,4 +21,4 @@ export async function getStaticProps({ locale }) {
   };
 }
 
-export default Home;
+export default Index;
