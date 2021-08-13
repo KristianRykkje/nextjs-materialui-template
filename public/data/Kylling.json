@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Gyros",
+    "time": "Over 60 min",
+    "imageUrl": "https://images.matprat.no/4e4g65hq6u",
+    "url": "/oppskrifter/kos/gyros/",
+    "protein": "Kylling",
+    "difficulty": "Enkel"
+  },
+  {
+    "name": "Kyllingfilet i form",
+    "time": "20–40 min",
+    "imageUrl": "https://images.matprat.no/uk6fkavjzp",
+    "url": "/oppskrifter/familien/kyllingfilet-i-form/",
+    "protein": "Kylling",
+    "difficulty": "Middels"
+  },
+  {
+    "name": "Kyllinggryte med kokosmelk",
+    "time": "20–40 min",
+    "imageUrl": "https://images.matprat.no/2ztqa6m5tf",
+    "url": "/oppskrifter/kos/kyllinggryte-med-kokosmelk/",
+    "protein": "Kylling",
+    "difficulty": "Enkel"
+  },
+  {
+    "name": "Kylling tikka masala",
+    "time": "Over 60 min",
+    "imageUrl": "https://images.matprat.no/pm7khk8pdj",
+    "url": "/oppskrifter/kos/kylling-tikka-masala/",
+    "protein": "Kylling",
+    "difficulty": "Middels"
+  },
+  {
+    "name": "Kyllingramen",
+    "time": "20–40 min",
+    "imageUrl": "https://images.matprat.no/6bhslmj8m4",
+    "url": "/oppskrifter/sunn/kyllingramen/",
+    "protein": "Kylling",
+    "difficulty": "Middels"
+  },
+  {
+    "name": "Wok med kylling og nudler",
+    "time": "Under 20 min",
+    "imageUrl": "https://images.matprat.no/2l455g2htm",
+    "url": "/oppskrifter/sunn/wok-med-kylling-og-nudler/",
+    "protein": "Kylling",
+    "difficulty": "Enkel"
+  },
+  {
+    "name": "Stekt ris",
+    "time": "Under 20 min",
+    "imageUrl": "https://images.matprat.no/lv3l7tvg36",
+    "url": "/oppskrifter/rask/stekt-ris/",
+    "protein": "Kylling",
+    "difficulty": "Enkel"
+  },
+  {
+    "name": "Pasta al limone",
+    "time": "Under 20 min",
+    "imageUrl": "https://images.matprat.no/yh2agzklvs",
+    "url": "/oppskrifter/kos/pasta-al-limone/",
+    "protein": "Kylling",
+    "difficulty": "Enkel"
+  },
+  {
+    "name": "BBQ kylling bowl",
+    "time": "40–60 min",
+    "imageUrl": "https://images.matprat.no/nuad6l3zjm",
+    "url": "/oppskrifter/sunn/bbq-kylling-bowl/",
+    "protein": "Kylling",
+    "difficulty": "Middels"
+  },
+  {
+    "name": "Fransk løksuppe",
+    "time": "Over 60 min",
+    "imageUrl": "https://images.matprat.no/cjxblqf3ja",
+    "url": "/oppskrifter/kos/fransk-loksuppe/",
+    "protein": "Kylling",
+    "difficulty": "Enkel"
+  },
+  {
+    "name": "Kyllingfilet med smakfull saus",
+    "time": "Under 20 min",
+    "imageUrl": "https://images.matprat.no/4jmg6zmjmm",
+    "url": "/oppskrifter/kos/kyllingfilet-med-smakfull-saus/",
+    "protein": "Kylling",
+    "difficulty": "Enkel"
+  },
+  {
+    "name": "Grillet kyllingfilet med mangosalat",
+    "time": "40–60 min",
+    "imageUrl": "https://images.matprat.no/5x274rv64a",
+    "url": "/oppskrifter/kos/grillet-kyllingfilet-med-mangosalat/",
+    "protein": "Kylling",
+    "difficulty": "Enkel"
+  },
+  {
+    "name": "Enchiladas med kylling",
+    "time": "20–40 min",
+    "imageUrl": "https://images.matprat.no/t2fvjzh7ak",
+    "url": "/oppskrifter/familien/enchiladas-med-kylling/",
+    "protein": "Kylling",
+    "difficulty": "Middels"
+  },
+  {
+    "name": "Spansk paella",
+    "time": "40–60 min",
+    "imageUrl": "https://images.matprat.no/t2qeumrau7",
+    "url": "/oppskrifter/gjester/spansk-paella/",
+    "protein": "Kylling",
+    "difficulty": "Avansert"
+  },
+  {
+    "name": "Kylling satay",
+    "time": "20–40 min",
+    "imageUrl": "https://images.matprat.no/gac7bxctdm",
+    "url": "/oppskrifter/rask/kylling-satay/",
+    "protein": "Kylling",
+    "difficulty": "Enkel"
+  },
+  {
+    "name": "Butter chicken - indisk smørkylling",
+    "time": "Over 60 min",
+    "imageUrl": "https://images.matprat.no/dxgehtetqy",
+    "url": "/oppskrifter/gjester/butter-chicken---indisk-smorkylling/",
+    "protein": "Kylling",
+    "difficulty": "Avansert"
+  },
+  {
+    "name": "Kylling i pita",
+    "time": "Under 20 min",
+    "imageUrl": "https://images.matprat.no/qcvaz2lqyy",
+    "url": "/oppskrifter/familien/kylling-i-pita/",
+    "protein": "Kylling",
+    "difficulty": "Enkel"
+  },
+  {
+    "name": "Kyllingwok med grønnsaker",
+    "time": "Under 20 min",
+    "imageUrl": "https://images.matprat.no/eaupy7ul5m",
+    "url": "/oppskrifter/familien/kyllingwok-med-gronnsaker/",
+    "protein": "Kylling",
+    "difficulty": "Enkel"
+  },
+  {
+    "name": "Hvordan grille kyllingfilet",
+    "time": "Under 20 min",
+    "imageUrl": "https://images.matprat.no/nyv74dejxj",
+    "url": "/oppskrifter/rask/hvordan-grille-kyllingfilet/",
+    "protein": "Kylling",
+    "difficulty": "Enkel"
+  },
+  {
+    "name": "Meksikanske kyllingfajitas",
+    "time": "Over 60 min",
+    "imageUrl": "https://images.matprat.no/klr5cmvgft",
+    "url": "/oppskrifter/kos/meksikanske-kyllingfajitas/",
+    "protein": "Kylling",
+    "difficulty": "Middels"
+  },
+  {
+    "name": "Chili- og hvitløksmarinerte kyllingspyd",
+    "time": "20–40 min",
+    "imageUrl": "https://images.matprat.no/4gygeu7dj2",
+    "url": "/oppskrifter/kos/chili--og-hvitloksmarinerte-kyllingspyd/",
+    "protein": "Kylling",
+    "difficulty": "Enkel"
+  },
+  {
+    "name": "Kylling i form",
+    "time": "20–40 min",
+    "imageUrl": "https://images.matprat.no/5087e8944c6ac0302500ad5a",
+    "url": "/oppskrifter/rask/kylling-i-form/",
+    "protein": "Kylling",
+    "difficulty": "Middels"
+  },
+  {
+    "name": "One pot med kylling",
+    "time": "20–40 min",
+    "imageUrl": "https://images.matprat.no/c768lzxjr7",
+    "url": "/oppskrifter/familien/one-pot-med-kylling/",
+    "protein": "Kylling",
+    "difficulty": "Enkel"
+  },
+  {
+    "name": "Kyllingfilet med snøfrisk og bacon",
+    "time": "20–40 min",
+    "imageUrl": "https://images.matprat.no/vgmnaylqyq",
+    "url": "/oppskrifter/kos/kyllingfilet-med-snofrisk-og-bacon/",
+    "protein": "Kylling",
+    "difficulty": "Middels"
+  },
+  {
+    "name": "Kyllingpai med spinat",
+    "time": "Over 60 min",
+    "imageUrl": "https://images.matprat.no/c265cegj26",
+    "url": "/oppskrifter/familien/kyllingpai-med-spinat/",
+    "protein": "Kylling",
+    "difficulty": "Middels"
+  },
+  {
+    "name": "Kyllinggryte med grønnsaker",
+    "time": "20–40 min",
+    "imageUrl": "https://images.matprat.no/63tqga4zmh",
+    "url": "/oppskrifter/sunn/kyllinggryte-med-gronnsaker/",
+    "protein": "Kylling",
+    "difficulty": "Middels"
+  },
+  {
+    "name": "Kylling tandoori",
+    "time": "Over 60 min",
+    "imageUrl": "https://images.matprat.no/67vkdrz2mr",
+    "url": "/oppskrifter/gjester/kylling-tandoori/",
+    "protein": "Kylling",
+    "difficulty": "Middels"
+  },
+  {
+    "name": "Paella med kylling og reker",
+    "time": "Over 60 min",
+    "imageUrl": "https://images.matprat.no/4bxn3cndxh",
+    "url": "/oppskrifter/gjester/paella-med-kylling-og-reker/",
+    "protein": "Kylling",
+    "difficulty": "Middels"
+  },
+  {
+    "name": "Kyllingwok med brokkoli",
+    "time": "20–40 min",
+    "imageUrl": "https://images.matprat.no/bqgxnz3tzp",
+    "url": "/oppskrifter/familien/kyllingwok-med-brokkoli/",
+    "protein": "Kylling",
+    "difficulty": "Enkel"
+  },
+  {
+    "name": "Marinert kyllingfilet med lun potetsalat",
+    "time": "40–60 min",
+    "imageUrl": "https://images.matprat.no/7sccqxxc8n",
+    "url": "/oppskrifter/kos/marinert-kyllingfilet-med-lun-potetsalat/",
+    "protein": "Kylling",
+    "difficulty": "Enkel"
+  }
+]

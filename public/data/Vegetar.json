@@ -1,0 +1,234 @@
+[
+  {
+    "name": "Pasta med kremet sopp",
+    "time": "20–40 min",
+    "imageUrl": "https://images.matprat.no/yk8bm7ruj3",
+    "url": "/oppskrifter/kos/pasta-med-kremet-sopp/",
+    "protein": "Vegetar",
+    "difficulty": "Enkel"
+  },
+  {
+    "name": "Tomatsuppe med kokt egg",
+    "time": "20–40 min",
+    "imageUrl": "https://images.matprat.no/unraqe5xjj",
+    "url": "/oppskrifter/familien/tomatsuppe-med-kokt-egg/",
+    "protein": "Vegetar",
+    "difficulty": "Enkel"
+  },
+  {
+    "name": "Pasta al limone",
+    "time": "Under 20 min",
+    "imageUrl": "https://images.matprat.no/yh2agzklvs",
+    "url": "/oppskrifter/kos/pasta-al-limone/",
+    "protein": "Vegetar",
+    "difficulty": "Enkel"
+  },
+  {
+    "name": "Chili sin carne",
+    "time": "20–40 min",
+    "imageUrl": "https://images.matprat.no/vpdcfmvlzm",
+    "url": "/oppskrifter/rask/chili-sin-carne/",
+    "protein": "Vegetar",
+    "difficulty": "Enkel"
+  },
+  {
+    "name": "Fransk løksuppe",
+    "time": "Over 60 min",
+    "imageUrl": "https://images.matprat.no/cjxblqf3ja",
+    "url": "/oppskrifter/kos/fransk-loksuppe/",
+    "protein": "Vegetar",
+    "difficulty": "Enkel"
+  },
+  {
+    "name": "Shakshuka",
+    "time": "20–40 min",
+    "imageUrl": "https://images.matprat.no/224dhmfcgd",
+    "url": "/oppskrifter/sunn/shakshuka/",
+    "protein": "Vegetar",
+    "difficulty": "Middels"
+  },
+  {
+    "name": "Spinatsuppe med egg",
+    "time": "20–40 min",
+    "imageUrl": "https://images.matprat.no/sxfz7h8ckb",
+    "url": "/oppskrifter/familien/spinatsuppe-med-egg/",
+    "protein": "Vegetar",
+    "difficulty": "Enkel"
+  },
+  {
+    "name": "Falafel",
+    "time": "Over 60 min",
+    "imageUrl": "https://images.matprat.no/ugb2zkdhef",
+    "url": "/oppskrifter/familien/falafel/",
+    "protein": "Vegetar",
+    "difficulty": "Middels"
+  },
+  {
+    "name": "Vegetarlasagne med spinat",
+    "time": "Over 60 min",
+    "imageUrl": "https://images.matprat.no/4aycpqpfat",
+    "url": "/oppskrifter/kos/vegetarlasagne-med-spinat/",
+    "protein": "Vegetar",
+    "difficulty": "Middels"
+  },
+  {
+    "name": "Dal - linsegryte",
+    "time": "40–60 min",
+    "imageUrl": "https://images.matprat.no/xdxrrgzszf",
+    "url": "/oppskrifter/sunn/dal---linsegryte/",
+    "protein": "Vegetar",
+    "difficulty": "Middels"
+  },
+  {
+    "name": "Kantarellsuppe",
+    "time": "20–40 min",
+    "imageUrl": "https://images.matprat.no/skr3q55hje",
+    "url": "/oppskrifter/kos/kantarellsuppe/",
+    "protein": "Vegetar",
+    "difficulty": "Middels"
+  },
+  {
+    "name": "Hjemmelaget gnocchi ",
+    "time": "Over 60 min",
+    "imageUrl": "https://images.matprat.no/kgj43b6jup",
+    "url": "/oppskrifter/kos/hjemmelaget-gnocchi/",
+    "protein": "Vegetar",
+    "difficulty": "Middels"
+  },
+  {
+    "name": "Spagettigryte",
+    "time": "20–40 min",
+    "imageUrl": "https://images.matprat.no/x7asnusz4s",
+    "url": "/oppskrifter/familien/spagettigryte/",
+    "protein": "Vegetar",
+    "difficulty": "Enkel"
+  },
+  {
+    "name": "Vegetarisk linsesuppe",
+    "time": "20–40 min",
+    "imageUrl": "https://images.matprat.no/lfg4jeyekf",
+    "url": "/oppskrifter/familien/vegetarisk-linsesuppe/",
+    "protein": "Vegetar",
+    "difficulty": "Enkel"
+  },
+  {
+    "name": "Vegetarisk gryte med bygg og bønner",
+    "time": "40–60 min",
+    "imageUrl": "https://images.matprat.no/ntb46ldkhe",
+    "url": "/oppskrifter/sunn/vegetarisk-gryte-med-bygg-og-bonner/",
+    "protein": "Vegetar",
+    "difficulty": "Middels"
+  },
+  {
+    "name": "Vegetarisk thaigryte",
+    "time": "20–40 min",
+    "imageUrl": "https://images.matprat.no/4vh4pjcl2m",
+    "url": "/oppskrifter/kos/vegetarisk-thaigryte/",
+    "protein": "Vegetar",
+    "difficulty": "Middels"
+  },
+  {
+    "name": "Purre- og brokkolisuppe med egg",
+    "time": "20–40 min",
+    "imageUrl": "https://images.matprat.no/hu5ktdathk",
+    "url": "/oppskrifter/sunn/purre--og-brokkolisuppe-med-egg/",
+    "protein": "Vegetar",
+    "difficulty": "Middels"
+  },
+  {
+    "name": "Kikertgryte med oregano og tomat",
+    "time": "Under 20 min",
+    "imageUrl": "https://images.matprat.no/3cb28njbdf",
+    "url": "/oppskrifter/sunn/kikertgryte-med-oregano-og-tomat/",
+    "protein": "Vegetar",
+    "difficulty": "Enkel"
+  },
+  {
+    "name": "Fylt aubergine med sopp og sesamfrø",
+    "time": "40–60 min",
+    "imageUrl": "https://images.matprat.no/2vgacz7nbg",
+    "url": "/oppskrifter/kos/fylt-aubergine-med-sopp-og-sesamfro/",
+    "protein": "Vegetar",
+    "difficulty": "Middels"
+  },
+  {
+    "name": "Grillspyd med grønnsaker",
+    "time": "20–40 min",
+    "imageUrl": "https://images.matprat.no/refvnljcmj",
+    "url": "/oppskrifter/kos/grillspyd-med-gronnsaker/",
+    "protein": "Vegetar",
+    "difficulty": "Enkel"
+  },
+  {
+    "name": "Enkel potet- og purreløksuppe",
+    "time": "20–40 min",
+    "imageUrl": "https://images.matprat.no/4t4vkxpupk",
+    "url": "/oppskrifter/rask/enkel-potet--og-purreloksuppe/",
+    "protein": "Vegetar",
+    "difficulty": "Middels"
+  },
+  {
+    "name": "Aspargessuppe",
+    "time": "20–40 min",
+    "imageUrl": "https://images.matprat.no/c3nctlmqfs",
+    "url": "/oppskrifter/familien/aspargessuppe/",
+    "protein": "Vegetar",
+    "difficulty": "Middels"
+  },
+  {
+    "name": "Vegetarburger med sopp og svarte bønner",
+    "time": "40–60 min",
+    "imageUrl": "https://images.matprat.no/rrypdrlpu6",
+    "url": "/oppskrifter/kos/vegetarburger-med-sopp-og-svarte-bonner/",
+    "protein": "Vegetar",
+    "difficulty": "Middels"
+  },
+  {
+    "name": "Gresskarsuppe",
+    "time": "20–40 min",
+    "imageUrl": "https://images.matprat.no/4yarpmakcx",
+    "url": "/oppskrifter/familien/gresskarsuppe/",
+    "protein": "Vegetar",
+    "difficulty": "Enkel"
+  },
+  {
+    "name": "Minestronesuppe vegetar",
+    "time": "Over 60 min",
+    "imageUrl": "https://images.matprat.no/ae4xcmhvxu",
+    "url": "/oppskrifter/familien/minestronesuppe-vegetar/",
+    "protein": "Vegetar",
+    "difficulty": "Enkel"
+  },
+  {
+    "name": "Byggotto",
+    "time": "20–40 min",
+    "imageUrl": "https://images.matprat.no/zkn8uv5ep5",
+    "url": "/oppskrifter/familien/byggotto/",
+    "protein": "Vegetar",
+    "difficulty": "Middels"
+  },
+  {
+    "name": "Pai med rødbeter",
+    "time": "Over 60 min",
+    "imageUrl": "https://images.matprat.no/mfc2na566n",
+    "url": "/oppskrifter/gjester/pai-med-rodbeter/",
+    "protein": "Vegetar",
+    "difficulty": "Middels"
+  },
+  {
+    "name": "Grønn minestronesuppe",
+    "time": "20–40 min",
+    "imageUrl": "https://images.matprat.no/cp5hvaua2y",
+    "url": "/oppskrifter/sunn/gronn-minestronesuppe/",
+    "protein": "Vegetar",
+    "difficulty": "Enkel"
+  },
+  {
+    "name": "Egg i spicy bønnegryte",
+    "time": "20–40 min",
+    "imageUrl": "https://images.matprat.no/ga4huk6pqa",
+    "url": "/oppskrifter/sunn/egg-i-spicy-bonnegryte/",
+    "protein": "Vegetar",
+    "difficulty": "Middels"
+  }
+]

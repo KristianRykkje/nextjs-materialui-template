@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Chili con carne",
+    "time": "20–40 min",
+    "imageUrl": "https://images.matprat.no/8n2mc52r56",
+    "url": "/oppskrifter/rask/chili-con-carne/",
+    "protein": "Kjøttdeig",
+    "difficulty": "Enkel"
+  },
+  {
+    "name": "Lasagne",
+    "time": "Over 60 min",
+    "imageUrl": "https://images.matprat.no/qzkyataqzn",
+    "url": "/oppskrifter/familien/lasagne/",
+    "protein": "Kjøttdeig",
+    "difficulty": "Middels"
+  },
+  {
+    "name": "Spagetti Bolognese",
+    "time": "20–40 min",
+    "imageUrl": "https://images.matprat.no/fhchpkyr7k",
+    "url": "/oppskrifter/familien/spagetti-bolognese/",
+    "protein": "Kjøttdeig",
+    "difficulty": "Middels"
+  },
+  {
+    "name": "Kjøttkaker med ertepuré",
+    "time": "20–40 min",
+    "imageUrl": "https://images.matprat.no/73qlq8x28m",
+    "url": "/oppskrifter/familien/hjemmelagde-kjottkaker/",
+    "protein": "Kjøttdeig",
+    "difficulty": "Middels"
+  },
+  {
+    "name": "Langpannepizza",
+    "time": "Over 60 min",
+    "imageUrl": "https://images.matprat.no/24ht582q7u",
+    "url": "/oppskrifter/kos/langpannepizza/",
+    "protein": "Kjøttdeig",
+    "difficulty": "Middels"
+  },
+  {
+    "name": "Kjøttkaker med kålstuing",
+    "time": "40–60 min",
+    "imageUrl": "https://images.matprat.no/ccuk44axey",
+    "url": "/oppskrifter/tradisjon/kjottkaker/",
+    "protein": "Kjøttdeig",
+    "difficulty": "Middels"
+  },
+  {
+    "name": "Moussaka",
+    "time": "Over 60 min",
+    "imageUrl": "https://images.matprat.no/dqpr6bf7zk",
+    "url": "/oppskrifter/gjester/moussaka/",
+    "protein": "Kjøttdeig",
+    "difficulty": "Middels"
+  },
+  {
+    "name": "Sheet pan quesadilla",
+    "time": "Under 20 min",
+    "imageUrl": "https://images.matprat.no/y7cr3vlehe",
+    "url": "/oppskrifter/familien/sheet-pan-quesadilla/",
+    "protein": "Kjøttdeig",
+    "difficulty": "Enkel"
+  },
+  {
+    "name": "Pasta Bolognese",
+    "time": "Over 60 min",
+    "imageUrl": "https://images.matprat.no/uuq5nmhujj",
+    "url": "/oppskrifter/gjester/pasta-bolognese/",
+    "protein": "Kjøttdeig",
+    "difficulty": "Middels"
+  },
+  {
+    "name": "Karbonader med løk",
+    "time": "20–40 min",
+    "imageUrl": "https://images.matprat.no/pp7tfb7ypx",
+    "url": "/oppskrifter/familien/karbonader-med-lok/",
+    "protein": "Kjøttdeig",
+    "difficulty": "Enkel"
+  },
+  {
+    "name": "Kjøttboller med tomatsaus og pasta",
+    "time": "20–40 min",
+    "imageUrl": "https://images.matprat.no/kqu8lvbpmg",
+    "url": "/oppskrifter/familien/kjottboller-med-tomatsaus-og-pasta/",
+    "protein": "Kjøttdeig",
+    "difficulty": "Enkel"
+  },
+  {
+    "name": "Pizzasnurrer",
+    "time": "Over 60 min",
+    "imageUrl": "https://images.matprat.no/zs5apbzpnv",
+    "url": "/oppskrifter/familien/pizzasnurrer/",
+    "protein": "Kjøttdeig",
+    "difficulty": "Middels"
+  },
+  {
+    "name": "Shepherd's Pie",
+    "time": "Over 60 min",
+    "imageUrl": "https://images.matprat.no/efqvexzlf6",
+    "url": "/oppskrifter/gjester/shepherds-pie/",
+    "protein": "Kjøttdeig",
+    "difficulty": "Middels"
+  },
+  {
+    "name": "Hamburger",
+    "time": "20–40 min",
+    "imageUrl": "https://images.matprat.no/53zncmujla",
+    "url": "/oppskrifter/familien/hamburger/",
+    "protein": "Kjøttdeig",
+    "difficulty": "Enkel"
+  },
+  {
+    "name": "Rask middagsgryte med kjøttdeig",
+    "time": "20–40 min",
+    "imageUrl": "https://images.matprat.no/m2sagqxncl",
+    "url": "/oppskrifter/rask/rask-middagsgryte-med-kjottdeig/",
+    "protein": "Kjøttdeig",
+    "difficulty": "Enkel"
+  },
+  {
+    "name": "Elgkarbonader",
+    "time": "20–40 min",
+    "imageUrl": "https://images.matprat.no/pxh6s8mx5c",
+    "url": "/oppskrifter/tradisjon/elgkarbonader/",
+    "protein": "Kjøttdeig",
+    "difficulty": "Middels"
+  },
+  {
+    "name": "Tacosuppe",
+    "time": "20–40 min",
+    "imageUrl": "https://images.matprat.no/4mnnj8e2rx",
+    "url": "/oppskrifter/rask/tacosuppe/",
+    "protein": "Kjøttdeig",
+    "difficulty": "Enkel"
+  },
+  {
+    "name": "Pannbiff",
+    "time": "Over 60 min",
+    "imageUrl": "https://images.matprat.no/ytpgetnbdz",
+    "url": "/oppskrifter/kos/pannebiff/",
+    "protein": "Kjøttdeig",
+    "difficulty": "Middels"
+  },
+  {
+    "name": "Kjøttpudding",
+    "time": "Over 60 min",
+    "imageUrl": "https://images.matprat.no/4cffa34c5aecc6753f370b00",
+    "url": "/oppskrifter/tradisjon/kjottpudding/",
+    "protein": "Kjøttdeig",
+    "difficulty": "Middels"
+  },
+  {
+    "name": "Taco",
+    "time": "20–40 min",
+    "imageUrl": "https://images.matprat.no/2db4ghzuz4",
+    "url": "/oppskrifter/familien/taco/",
+    "protein": "Kjøttdeig",
+    "difficulty": "Enkel"
+  },
+  {
+    "name": "Calzone",
+    "time": "Over 60 min",
+    "imageUrl": "https://images.matprat.no/l6d8qac3cn",
+    "url": "/oppskrifter/kos/calzone/",
+    "protein": "Kjøttdeig",
+    "difficulty": "Enkel"
+  },
+  {
+    "name": "Kjøttform med potetmoslokk",
+    "time": "40–60 min",
+    "imageUrl": "https://images.matprat.no/f66khxep7k",
+    "url": "/oppskrifter/familien/kjottform-med-potetmoslokk/",
+    "protein": "Kjøttdeig",
+    "difficulty": "Middels"
+  },
+  {
+    "name": "Kålruletter",
+    "time": "40–60 min",
+    "imageUrl": "https://images.matprat.no/fgum6ak4lx",
+    "url": "/oppskrifter/tradisjon/kalruletter/",
+    "protein": "Kjøttdeig",
+    "difficulty": "Middels"
+  },
+  {
+    "name": "Sis köfte - tyrkisk kebab",
+    "time": "40–60 min",
+    "imageUrl": "https://images.matprat.no/zjk7e6gczp",
+    "url": "/oppskrifter/kos/sis-kofte---tyrkisk-kebab/",
+    "protein": "Kjøttdeig",
+    "difficulty": "Middels"
+  },
+  {
+    "name": "Lammeboller med gresk salat og tzatziki",
+    "time": "Over 60 min",
+    "imageUrl": "https://images.matprat.no/tgkchg8rll",
+    "url": "/oppskrifter/kos/lammeboller-med-gresk-salat-og-tzatziki/",
+    "protein": "Kjøttdeig",
+    "difficulty": "Middels"
+  },
+  {
+    "name": "Elghakk",
+    "time": "20–40 min",
+    "imageUrl": "https://images.matprat.no/4cffa27a5aecc6753f130700",
+    "url": "/oppskrifter/tradisjon/elghakk/",
+    "protein": "Kjøttdeig",
+    "difficulty": "Enkel"
+  },
+  {
+    "name": "Gryterett med kjøttdeig",
+    "time": "Under 20 min",
+    "imageUrl": "https://images.matprat.no/jmz6bguegz",
+    "url": "/oppskrifter/familien/gryterett-med-kjottdeig/",
+    "protein": "Kjøttdeig",
+    "difficulty": "Enkel"
+  },
+  {
+    "name": "Kjøttdeiggryte",
+    "time": "20–40 min",
+    "imageUrl": "https://images.matprat.no/myybetetmh",
+    "url": "/oppskrifter/familien/kjottdeiggryte/",
+    "protein": "Kjøttdeig",
+    "difficulty": "Enkel"
+  },
+  {
+    "name": "Quesadilla med kjøttdeig og mais",
+    "time": "Under 20 min",
+    "imageUrl": "https://images.matprat.no/4tdadngap3",
+    "url": "/oppskrifter/kos/quesadilla-med-kjottdeig-og-mais/",
+    "protein": "Kjøttdeig",
+    "difficulty": "Enkel"
+  },
+  {
+    "name": "Kjøttboller i fløtesaus",
+    "time": "20–40 min",
+    "imageUrl": "https://images.matprat.no/xhcjhlx5bq",
+    "url": "/oppskrifter/familien/kjottboller-i-flotesaus/",
+    "protein": "Kjøttdeig",
+    "difficulty": "Enkel"
+  }
+]

@@ -1,7 +1,5 @@
 import Head from "next/head";
-import { appWithTranslation } from "next-i18next";
 import CssBaseline from "@material-ui/core/CssBaseline";
-import Header from "@/components/Header/Header";
 import { useEffect } from "react";
 
 function MyApp({ Component, pageProps }) {
@@ -23,11 +21,10 @@ function MyApp({ Component, pageProps }) {
       </Head>
       <CssBaseline />
       <>
-        <Header />
         <Component {...pageProps} />
       </>
     </>
   );
 }
 
-export default appWithTranslation(MyApp);
+export default MyApp;

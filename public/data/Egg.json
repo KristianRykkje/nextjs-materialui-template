@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Pannekaker",
+    "time": "40–60 min",
+    "imageUrl": "https://images.matprat.no/pu56jc3czr",
+    "url": "/oppskrifter/familien/pannekaker/",
+    "protein": "Egg",
+    "difficulty": "Middels"
+  },
+  {
+    "name": "Skinkepai",
+    "time": "40–60 min",
+    "imageUrl": "https://images.matprat.no/6m3lr7cgnb",
+    "url": "/oppskrifter/familien/skinkepai/",
+    "protein": "Egg",
+    "difficulty": "Middels"
+  },
+  {
+    "name": "Pasta carbonara",
+    "time": "Under 20 min",
+    "imageUrl": "https://images.matprat.no/yd2ymkj8a4",
+    "url": "/oppskrifter/kos/pasta-carbonara/",
+    "protein": "Egg",
+    "difficulty": "Enkel"
+  },
+  {
+    "name": "Fiskegrateng",
+    "time": "40–60 min",
+    "imageUrl": "https://images.matprat.no/gzbsqncmh5",
+    "url": "/oppskrifter/familien/fiskegrateng/",
+    "protein": "Egg",
+    "difficulty": "Middels"
+  },
+  {
+    "name": "Makaronigrateng med pølse",
+    "time": "20–40 min",
+    "imageUrl": "https://images.matprat.no/evzrgt7n25",
+    "url": "/oppskrifter/rask/makaronigrateng-med-polse/",
+    "protein": "Egg",
+    "difficulty": "Enkel"
+  },
+  {
+    "name": "Moussaka",
+    "time": "Over 60 min",
+    "imageUrl": "https://images.matprat.no/dqpr6bf7zk",
+    "url": "/oppskrifter/gjester/moussaka/",
+    "protein": "Egg",
+    "difficulty": "Middels"
+  },
+  {
+    "name": "Grove fiskekaker med karristuede rotgrønnsaker",
+    "time": "40–60 min",
+    "imageUrl": "https://images.matprat.no/ymcv27efzm",
+    "url": "/oppskrifter/familien/grove-fiskekaker-med-karristuede-rotgronnsaker/",
+    "protein": "Egg",
+    "difficulty": "Middels"
+  },
+  {
+    "name": "Omelett med skinke og paprika",
+    "time": "Under 20 min",
+    "imageUrl": "https://images.matprat.no/nrp5mf3gej",
+    "url": "/oppskrifter/rask/omelett-med-skinke-og-paprika/",
+    "protein": "Egg",
+    "difficulty": "Superenkel"
+  },
+  {
+    "name": "Hjemmelaget pasta",
+    "time": "Over 60 min",
+    "imageUrl": "https://images.matprat.no/3nksuhf8u5",
+    "url": "/oppskrifter/kos/hjemmelaget-pasta/",
+    "protein": "Egg",
+    "difficulty": "Middels"
+  },
+  {
+    "name": "Hjemmelaget fiskegrateng",
+    "time": "40–60 min",
+    "imageUrl": "https://images.matprat.no/dfrca45gqg",
+    "url": "/oppskrifter/tradisjon/hjemmelaget-fiskegrateng/",
+    "protein": "Egg",
+    "difficulty": "Middels"
+  },
+  {
+    "name": "Tomatsuppe med kokt egg",
+    "time": "20–40 min",
+    "imageUrl": "https://images.matprat.no/unraqe5xjj",
+    "url": "/oppskrifter/familien/tomatsuppe-med-kokt-egg/",
+    "protein": "Egg",
+    "difficulty": "Enkel"
+  },
+  {
+    "name": "Kyllingramen",
+    "time": "20–40 min",
+    "imageUrl": "https://images.matprat.no/6bhslmj8m4",
+    "url": "/oppskrifter/sunn/kyllingramen/",
+    "protein": "Egg",
+    "difficulty": "Middels"
+  },
+  {
+    "name": "Grove pannekaker",
+    "time": "20–40 min",
+    "imageUrl": "https://images.matprat.no/bdakml2tdl",
+    "url": "/oppskrifter/rask/grove-pannekaker/",
+    "protein": "Egg",
+    "difficulty": "Middels"
+  },
+  {
+    "name": "Stekt ris",
+    "time": "Under 20 min",
+    "imageUrl": "https://images.matprat.no/lv3l7tvg36",
+    "url": "/oppskrifter/rask/stekt-ris/",
+    "protein": "Egg",
+    "difficulty": "Enkel"
+  },
+  {
+    "name": "Baked feta pasta",
+    "time": "20–40 min",
+    "imageUrl": "https://images.matprat.no/kp44lq7k5h",
+    "url": "/oppskrifter/kos/baked-feta-pasta/",
+    "protein": "Egg",
+    "difficulty": "Middels"
+  },
+  {
+    "name": "Pannekaker med havregryn",
+    "time": "20–40 min",
+    "imageUrl": "https://images.matprat.no/25te2ycqhz",
+    "url": "/oppskrifter/familien/pannekaker-med-havregryn/",
+    "protein": "Egg",
+    "difficulty": "Middels"
+  },
+  {
+    "name": "Quiche Lorraine",
+    "time": "Over 60 min",
+    "imageUrl": "https://images.matprat.no/m4nqp64f6p",
+    "url": "/oppskrifter/gjester/quiche-lorraine/",
+    "protein": "Egg",
+    "difficulty": "Middels"
+  },
+  {
+    "name": "Elgkarbonader",
+    "time": "20–40 min",
+    "imageUrl": "https://images.matprat.no/pxh6s8mx5c",
+    "url": "/oppskrifter/tradisjon/elgkarbonader/",
+    "protein": "Egg",
+    "difficulty": "Middels"
+  },
+  {
+    "name": "Pasta med entrecôte og gorgonzola",
+    "time": "Over 60 min",
+    "imageUrl": "https://images.matprat.no/vxdyvjxtyt",
+    "url": "/oppskrifter/kos/pasta-med-entrecote-og-gorgonzola/",
+    "protein": "Egg",
+    "difficulty": "Middels"
+  },
+  {
+    "name": "Shakshuka",
+    "time": "20–40 min",
+    "imageUrl": "https://images.matprat.no/224dhmfcgd",
+    "url": "/oppskrifter/sunn/shakshuka/",
+    "protein": "Egg",
+    "difficulty": "Middels"
+  },
+  {
+    "name": "Frittata med tomater og spinat",
+    "time": "Under 20 min",
+    "imageUrl": "https://images.matprat.no/vqxsf56sgu",
+    "url": "/oppskrifter/sunn/frittata-med-tomater-og-spinat/",
+    "protein": "Egg",
+    "difficulty": "Middels"
+  },
+  {
+    "name": "Spinatsuppe med egg",
+    "time": "20–40 min",
+    "imageUrl": "https://images.matprat.no/sxfz7h8ckb",
+    "url": "/oppskrifter/familien/spinatsuppe-med-egg/",
+    "protein": "Egg",
+    "difficulty": "Enkel"
+  },
+  {
+    "name": "Falafel",
+    "time": "Over 60 min",
+    "imageUrl": "https://images.matprat.no/ugb2zkdhef",
+    "url": "/oppskrifter/familien/falafel/",
+    "protein": "Egg",
+    "difficulty": "Middels"
+  },
+  {
+    "name": "Pannbiff",
+    "time": "Over 60 min",
+    "imageUrl": "https://images.matprat.no/ytpgetnbdz",
+    "url": "/oppskrifter/kos/pannebiff/",
+    "protein": "Egg",
+    "difficulty": "Middels"
+  },
+  {
+    "name": "Pai med sopp og bacon",
+    "time": "40–60 min",
+    "imageUrl": "https://images.matprat.no/5m3stbje82",
+    "url": "/oppskrifter/gjester/pai-med-sopp-og-bacon/",
+    "protein": "Egg",
+    "difficulty": "Middels"
+  },
+  {
+    "name": "Kyllingpai med spinat",
+    "time": "Over 60 min",
+    "imageUrl": "https://images.matprat.no/c265cegj26",
+    "url": "/oppskrifter/familien/kyllingpai-med-spinat/",
+    "protein": "Egg",
+    "difficulty": "Middels"
+  },
+  {
+    "name": "Pannekaker uten melk",
+    "time": "40–60 min",
+    "imageUrl": "https://images.matprat.no/md2kzfdtvd",
+    "url": "/oppskrifter/familien/pannekaker-uten-melk/",
+    "protein": "Egg",
+    "difficulty": "Middels"
+  },
+  {
+    "name": "Hjemmelaget gnocchi ",
+    "time": "Over 60 min",
+    "imageUrl": "https://images.matprat.no/kgj43b6jup",
+    "url": "/oppskrifter/kos/hjemmelaget-gnocchi/",
+    "protein": "Egg",
+    "difficulty": "Middels"
+  },
+  {
+    "name": "Calzone",
+    "time": "Over 60 min",
+    "imageUrl": "https://images.matprat.no/l6d8qac3cn",
+    "url": "/oppskrifter/kos/calzone/",
+    "protein": "Egg",
+    "difficulty": "Enkel"
+  },
+  {
+    "name": "Ovnspannekake med bacon",
+    "time": "20–40 min",
+    "imageUrl": "https://images.matprat.no/jak47nqqtd",
+    "url": "/oppskrifter/familien/ovnspannekake-med-bacon/",
+    "protein": "Egg",
+    "difficulty": "Enkel"
+  }
+]
